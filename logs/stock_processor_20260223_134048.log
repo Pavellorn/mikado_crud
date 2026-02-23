@@ -1,0 +1,138 @@
+2026-02-23 13:40:48,348 - INFO - ============================================================
+2026-02-23 13:40:48,349 - INFO - 🚀 ЗАПУСК ПРОЦЕССА ОБРАБОТКИ ФАЙЛОВ СКЛАДА
+2026-02-23 13:40:48,349 - INFO - ============================================================
+2026-02-23 13:40:48,349 - INFO - 📁 Папка загрузки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7
+2026-02-23 13:40:48,349 - INFO - 📊 Количество складов: 7
+2026-02-23 13:40:48,350 - INFO - 📄 Файл лога: ./logs\stock_processor_20260223_134048.log
+2026-02-23 13:40:48,419 - INFO - 
+📥 НАЧАЛО ЗАГРУЗКИ ФАЙЛОВ
+2026-02-23 13:40:48,420 - INFO - 
+============================================================
+2026-02-23 13:40:48,421 - INFO - 🚀 Начало загрузки файлов склада
+2026-02-23 13:40:48,421 - INFO - 📊 Всего файлов: 7
+2026-02-23 13:40:48,421 - INFO - 📁 Папка сохранения: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7
+2026-02-23 13:40:48,421 - INFO - ============================================================
+2026-02-23 13:40:48,422 - INFO - [1/7] 📥 Скачивание: Москва
+2026-02-23 13:40:48,422 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=50&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 13:40:48,422 - INFO -    Файл: stock_50.zip
+2026-02-23 13:40:50,335 - INFO -    Размер: 3.46 MB
+2026-02-23 13:40:53,671 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.zip
+2026-02-23 13:40:53,672 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 13:40:54,672 - INFO - [2/7] 📥 Скачивание: Москва 2
+2026-02-23 13:40:54,673 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=77&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 13:40:54,673 - INFO -    Файл: stock_77.zip
+2026-02-23 13:40:55,807 - INFO -    Размер: 1.89 MB
+2026-02-23 13:40:57,387 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.zip
+2026-02-23 13:40:57,388 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 13:40:58,394 - INFO - [3/7] 📥 Скачивание: Орел
+2026-02-23 13:40:58,407 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=57&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 13:40:58,415 - INFO -    Файл: stock_57.zip
+2026-02-23 13:40:59,213 - INFO -    Размер: 1.02 MB
+2026-02-23 13:41:01,567 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.zip
+2026-02-23 13:41:01,567 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 13:41:02,569 - INFO - [4/7] 📥 Скачивание: Смоленск
+2026-02-23 13:41:02,569 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=67&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 13:41:02,570 - INFO -    Файл: stock_67.zip
+2026-02-23 13:41:03,289 - INFO -    Размер: 1.24 MB
+2026-02-23 13:41:05,030 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.zip
+2026-02-23 13:41:05,032 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 13:41:06,045 - INFO - [5/7] 📥 Скачивание: Курск
+2026-02-23 13:41:06,047 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=46&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 13:41:06,063 - INFO -    Файл: stock_46.zip
+2026-02-23 13:41:06,744 - INFO -    Размер: 1.11 MB
+2026-02-23 13:41:08,637 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.zip
+2026-02-23 13:41:08,638 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 13:41:09,639 - INFO - [6/7] 📥 Скачивание: Белгород
+2026-02-23 13:41:09,640 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=31&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 13:41:09,641 - INFO -    Файл: stock_31.zip
+2026-02-23 13:41:10,579 - INFO -    Размер: 1.38 MB
+2026-02-23 13:41:11,536 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.zip
+2026-02-23 13:41:11,537 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 13:41:12,538 - INFO - [7/7] 📥 Скачивание: Самара
+2026-02-23 13:41:12,539 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=63&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 13:41:12,540 - INFO -    Файл: stock_63.zip
+2026-02-23 13:41:13,630 - INFO -    Размер: 1.59 MB
+2026-02-23 13:41:15,084 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.zip
+2026-02-23 13:41:15,084 - INFO - 
+📊 РЕЗУЛЬТАТЫ ЗАГРУЗКИ:
+2026-02-23 13:41:15,085 - INFO -    Всего файлов: 7
+2026-02-23 13:41:15,086 - INFO -    ✅ Успешно: 7
+2026-02-23 13:41:15,086 - INFO -    ❌ Ошибок: 0
+2026-02-23 13:41:15,087 - INFO - 
+📦 НАЧАЛО РАСПАКОВКИ ФАЙЛОВ
+2026-02-23 13:41:15,099 - INFO - 📦 Найдено zip-файлов: 8
+2026-02-23 13:41:15,099 - INFO - 
+==================================================
+2026-02-23 13:41:15,100 - INFO - Обработка: stock_1.zip
+2026-02-23 13:41:15,101 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1.zip
+2026-02-23 13:41:15,104 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1
+2026-02-23 13:41:19,603 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1
+2026-02-23 13:41:19,616 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1.zip
+2026-02-23 13:41:19,619 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:19,619 - INFO - 
+==================================================
+2026-02-23 13:41:19,621 - INFO - Обработка: stock_31.zip
+2026-02-23 13:41:19,622 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.zip
+2026-02-23 13:41:19,631 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31
+2026-02-23 13:41:20,581 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31
+2026-02-23 13:41:20,702 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.zip
+2026-02-23 13:41:20,706 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:20,707 - INFO - 
+==================================================
+2026-02-23 13:41:20,711 - INFO - Обработка: stock_46.zip
+2026-02-23 13:41:20,715 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.zip
+2026-02-23 13:41:20,722 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46
+2026-02-23 13:41:21,648 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46
+2026-02-23 13:41:21,670 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.zip
+2026-02-23 13:41:21,675 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:21,676 - INFO - 
+==================================================
+2026-02-23 13:41:21,677 - INFO - Обработка: stock_50.zip
+2026-02-23 13:41:21,697 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.zip
+2026-02-23 13:41:21,725 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50
+2026-02-23 13:41:24,750 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50
+2026-02-23 13:41:24,760 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.zip
+2026-02-23 13:41:24,763 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:24,764 - INFO - 
+==================================================
+2026-02-23 13:41:24,768 - INFO - Обработка: stock_57.zip
+2026-02-23 13:41:24,770 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.zip
+2026-02-23 13:41:24,779 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57
+2026-02-23 13:41:25,394 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57
+2026-02-23 13:41:25,449 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.zip
+2026-02-23 13:41:25,494 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:25,494 - INFO - 
+==================================================
+2026-02-23 13:41:25,495 - INFO - Обработка: stock_63.zip
+2026-02-23 13:41:25,497 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.zip
+2026-02-23 13:41:25,501 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63
+2026-02-23 13:41:26,719 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63
+2026-02-23 13:41:26,742 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.zip
+2026-02-23 13:41:26,779 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:26,781 - INFO - 
+==================================================
+2026-02-23 13:41:26,792 - INFO - Обработка: stock_67.zip
+2026-02-23 13:41:26,803 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.zip
+2026-02-23 13:41:26,817 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67
+2026-02-23 13:41:27,613 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67
+2026-02-23 13:41:27,626 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.zip
+2026-02-23 13:41:27,636 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:27,638 - INFO - 
+==================================================
+2026-02-23 13:41:27,644 - INFO - Обработка: stock_77.zip
+2026-02-23 13:41:27,649 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.zip
+2026-02-23 13:41:27,660 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77
+2026-02-23 13:41:28,900 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77
+2026-02-23 13:41:28,919 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.zip
+2026-02-23 13:41:28,929 - ERROR - ❌ В архиве не найден txt файл
+2026-02-23 13:41:28,939 - INFO - 
+==================================================
+2026-02-23 13:41:28,953 - INFO - Распаковка и обработка завершены!
+2026-02-23 13:41:28,960 - INFO - Успешно обработано: 0 из 8
+2026-02-23 13:41:28,962 - INFO - Папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7
+2026-02-23 13:41:28,974 - WARNING - ⚠️ Нет файлов для распаковки
+2026-02-23 13:41:28,976 - INFO - 
+============================================================
+2026-02-23 13:41:28,980 - INFO - ✅ ПРОЦЕСС ЗАВЕРШЕН
+2026-02-23 13:41:28,984 - INFO - 📄 Лог сохранен в файл: ./logs\stock_processor_20260223_134048.log
+2026-02-23 13:41:28,994 - INFO - ============================================================

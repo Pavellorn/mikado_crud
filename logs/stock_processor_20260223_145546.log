@@ -1,0 +1,224 @@
+2026-02-23 14:55:46,215 - INFO - ============================================================
+2026-02-23 14:55:46,216 - INFO - 🚀 ЗАПУСК ПРОЦЕССА ОБРАБОТКИ ФАЙЛОВ СКЛАДА
+2026-02-23 14:55:46,216 - INFO - ============================================================
+2026-02-23 14:55:46,216 - INFO - 📁 Папка загрузки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7
+2026-02-23 14:55:46,217 - INFO - 📄 Файл лога: ./logs\stock_processor_20260223_145546.log
+2026-02-23 14:55:46,219 - INFO - 
+📥 НАЧАЛО ЗАГРУЗКИ ФАЙЛОВ
+2026-02-23 14:55:46,442 - INFO - 📄 Загружено складов из конфига: 8
+2026-02-23 14:55:46,442 - INFO - 📋 Список складов:
+2026-02-23 14:55:46,442 - INFO -    1. Центральный склад
+2026-02-23 14:55:46,443 - INFO -    2. Москва
+2026-02-23 14:55:46,443 - INFO -    3. Москва 2
+2026-02-23 14:55:46,443 - INFO -    4. Орел
+2026-02-23 14:55:46,443 - INFO -    5. Смоленск
+2026-02-23 14:55:46,443 - INFO -    6. Курск
+2026-02-23 14:55:46,443 - INFO -    7. Белгород
+2026-02-23 14:55:46,444 - INFO -    8. Самара
+2026-02-23 14:55:46,464 - INFO - 
+============================================================
+2026-02-23 14:55:46,531 - INFO - 🚀 Начало загрузки файлов склада
+2026-02-23 14:55:46,532 - INFO - 📊 Всего файлов: 8
+2026-02-23 14:55:46,532 - INFO - 📁 Папка сохранения: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7
+2026-02-23 14:55:46,532 - INFO - ============================================================
+2026-02-23 14:55:46,533 - INFO - [1/8] 📥 Скачивание: Центральный склад
+2026-02-23 14:55:46,533 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=1&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:55:46,533 - INFO -    Файл: stock_1.zip
+2026-02-23 14:55:49,492 - INFO -    Размер: 5.51 MB
+2026-02-23 14:55:51,210 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1.zip
+2026-02-23 14:55:51,210 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 14:55:52,211 - INFO - [2/8] 📥 Скачивание: Москва
+2026-02-23 14:55:52,212 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=50&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:55:52,215 - INFO -    Файл: stock_50.zip
+2026-02-23 14:55:54,067 - INFO -    Размер: 3.46 MB
+2026-02-23 14:55:55,169 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.zip
+2026-02-23 14:55:55,170 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 14:55:56,173 - INFO - [3/8] 📥 Скачивание: Москва 2
+2026-02-23 14:55:56,173 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=77&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:55:56,175 - INFO -    Файл: stock_77.zip
+2026-02-23 14:55:57,590 - INFO -    Размер: 1.89 MB
+2026-02-23 14:55:58,326 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.zip
+2026-02-23 14:55:58,327 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 14:55:59,328 - INFO - [4/8] 📥 Скачивание: Орел
+2026-02-23 14:55:59,329 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=57&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:55:59,333 - INFO -    Файл: stock_57.zip
+2026-02-23 14:56:00,038 - INFO -    Размер: 1.02 MB
+2026-02-23 14:56:00,419 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.zip
+2026-02-23 14:56:00,420 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 14:56:01,421 - INFO - [5/8] 📥 Скачивание: Смоленск
+2026-02-23 14:56:01,421 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=67&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:56:01,424 - INFO -    Файл: stock_67.zip
+2026-02-23 14:56:02,420 - INFO -    Размер: 1.24 MB
+2026-02-23 14:56:02,904 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.zip
+2026-02-23 14:56:02,904 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 14:56:03,905 - INFO - [6/8] 📥 Скачивание: Курск
+2026-02-23 14:56:03,905 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=46&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:56:03,906 - INFO -    Файл: stock_46.zip
+2026-02-23 14:56:04,555 - INFO -    Размер: 1.11 MB
+2026-02-23 14:56:04,970 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.zip
+2026-02-23 14:56:04,970 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 14:56:05,971 - INFO - [7/8] 📥 Скачивание: Белгород
+2026-02-23 14:56:05,971 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=31&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:56:05,973 - INFO -    Файл: stock_31.zip
+2026-02-23 14:56:06,871 - INFO -    Размер: 1.38 MB
+2026-02-23 14:56:07,346 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.zip
+2026-02-23 14:56:07,347 - INFO - ⏳ Ожидание 1 сек...
+2026-02-23 14:56:08,353 - INFO - [8/8] 📥 Скачивание: Самара
+2026-02-23 14:56:08,353 - INFO -    URL: https://mikado-parts.ru/api/Price/GetPrice?StockId=63&Key=1ED5650E-0A7D-4FE9-9A9D-F27550201753
+2026-02-23 14:56:08,357 - INFO -    Файл: stock_63.zip
+2026-02-23 14:56:09,274 - INFO -    Размер: 1.59 MB
+2026-02-23 14:56:09,817 - INFO -    ✅ Файл сохранен: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.zip
+2026-02-23 14:56:09,818 - INFO - 
+============================================================
+2026-02-23 14:56:09,819 - INFO - ✅ ЗАГРУЗКА ЗАВЕРШЕНА!
+2026-02-23 14:56:09,819 - INFO - ============================================================
+2026-02-23 14:56:09,820 - INFO - 📊 Статистика:
+2026-02-23 14:56:09,820 - INFO -    Всего файлов: 8
+2026-02-23 14:56:09,820 - INFO -    ✅ Успешно: 8
+2026-02-23 14:56:09,821 - INFO -    ❌ Ошибок: 0
+2026-02-23 14:56:09,822 - INFO -    ⏱ Время выполнения: 23.4 сек
+2026-02-23 14:56:09,822 - INFO - 📁 Файлы сохранены: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7
+2026-02-23 14:56:09,823 - INFO - ============================================================
+2026-02-23 14:56:09,823 - INFO - 
+📦 НАЧАЛО РАСПАКОВКИ ФАЙЛОВ
+2026-02-23 14:56:09,829 - INFO - 📦 Найдено zip-файлов: 8
+2026-02-23 14:56:09,829 - INFO - 
+==================================================
+2026-02-23 14:56:09,830 - INFO - 🔄 Обработка: stock_1.zip
+2026-02-23 14:56:09,831 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1.zip
+2026-02-23 14:56:09,834 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1
+2026-02-23 14:56:12,557 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1
+2026-02-23 14:56:12,562 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1.zip
+2026-02-23 14:56:12,564 - INFO - 📄 Найден CSV файл: mikado_price_1.csv
+2026-02-23 14:56:12,565 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1\mikado_price_1.csv
+2026-02-23 14:56:23,042 - INFO - ✅ Файл очищен
+2026-02-23 14:56:23,090 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1\mikado_price_1.csv
+2026-02-23 14:56:26,069 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_1.csv
+2026-02-23 14:56:26,072 - ERROR - Ошибка при переименовании: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: '\\\\xen\\DATAW\\Dropbox\\InterParts\\Berloga\\RU\\RU77\\R77A7\\stock_1.csv'
+2026-02-23 14:56:26,072 - ERROR - ❌ Ошибка при переименовании файла
+2026-02-23 14:56:26,072 - INFO - 
+==================================================
+2026-02-23 14:56:26,073 - INFO - 🔄 Обработка: stock_31.zip
+2026-02-23 14:56:26,073 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.zip
+2026-02-23 14:56:26,076 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31
+2026-02-23 14:56:26,834 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31
+2026-02-23 14:56:26,839 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.zip
+2026-02-23 14:56:26,842 - INFO - 📄 Найден CSV файл: mikado_price_31.csv
+2026-02-23 14:56:26,843 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31\mikado_price_31.csv
+2026-02-23 14:56:29,397 - INFO - ✅ Файл очищен
+2026-02-23 14:56:29,424 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31\mikado_price_31.csv
+2026-02-23 14:56:30,019 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.csv
+2026-02-23 14:56:30,026 - INFO - 🗑 Удален старый файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.csv
+2026-02-23 14:56:30,037 - INFO - ✅ Файл переименован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31.csv
+2026-02-23 14:56:30,044 - INFO - 🗑 Удалена пустая папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_31
+2026-02-23 14:56:30,045 - INFO - ✅ Файл stock_31.zip успешно обработан
+2026-02-23 14:56:30,046 - INFO - 
+==================================================
+2026-02-23 14:56:30,046 - INFO - 🔄 Обработка: stock_46.zip
+2026-02-23 14:56:30,048 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.zip
+2026-02-23 14:56:30,052 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46
+2026-02-23 14:56:30,630 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46
+2026-02-23 14:56:30,640 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.zip
+2026-02-23 14:56:30,645 - INFO - 📄 Найден CSV файл: mikado_price_46.csv
+2026-02-23 14:56:30,646 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46\mikado_price_46.csv
+2026-02-23 14:56:32,479 - INFO - ✅ Файл очищен
+2026-02-23 14:56:32,493 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46\mikado_price_46.csv
+2026-02-23 14:56:32,967 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.csv
+2026-02-23 14:56:32,972 - INFO - 🗑 Удален старый файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.csv
+2026-02-23 14:56:33,112 - INFO - ✅ Файл переименован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46.csv
+2026-02-23 14:56:33,118 - INFO - 🗑 Удалена пустая папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_46
+2026-02-23 14:56:33,118 - INFO - ✅ Файл stock_46.zip успешно обработан
+2026-02-23 14:56:33,119 - INFO - 
+==================================================
+2026-02-23 14:56:33,119 - INFO - 🔄 Обработка: stock_50.zip
+2026-02-23 14:56:33,122 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.zip
+2026-02-23 14:56:33,126 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50
+2026-02-23 14:56:34,915 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50
+2026-02-23 14:56:34,920 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.zip
+2026-02-23 14:56:34,924 - INFO - 📄 Найден CSV файл: mikado_price_50.csv
+2026-02-23 14:56:34,924 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50\mikado_price_50.csv
+2026-02-23 14:56:41,297 - INFO - ✅ Файл очищен
+2026-02-23 14:56:41,324 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50\mikado_price_50.csv
+2026-02-23 14:56:42,881 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.csv
+2026-02-23 14:56:42,889 - INFO - 🗑 Удален старый файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.csv
+2026-02-23 14:56:42,906 - INFO - ✅ Файл переименован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50.csv
+2026-02-23 14:56:42,917 - INFO - 🗑 Удалена пустая папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_50
+2026-02-23 14:56:42,918 - INFO - ✅ Файл stock_50.zip успешно обработан
+2026-02-23 14:56:42,919 - INFO - 
+==================================================
+2026-02-23 14:56:42,919 - INFO - 🔄 Обработка: stock_57.zip
+2026-02-23 14:56:42,923 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.zip
+2026-02-23 14:56:42,929 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57
+2026-02-23 14:56:43,469 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57
+2026-02-23 14:56:43,474 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.zip
+2026-02-23 14:56:43,476 - INFO - 📄 Найден CSV файл: mikado_price_57.csv
+2026-02-23 14:56:43,476 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57\mikado_price_57.csv
+2026-02-23 14:56:45,489 - INFO - ✅ Файл очищен
+2026-02-23 14:56:45,500 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57\mikado_price_57.csv
+2026-02-23 14:56:45,994 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.csv
+2026-02-23 14:56:45,999 - INFO - 🗑 Удален старый файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.csv
+2026-02-23 14:56:46,005 - INFO - ✅ Файл переименован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57.csv
+2026-02-23 14:56:46,016 - INFO - 🗑 Удалена пустая папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_57
+2026-02-23 14:56:46,016 - INFO - ✅ Файл stock_57.zip успешно обработан
+2026-02-23 14:56:46,017 - INFO - 
+==================================================
+2026-02-23 14:56:46,017 - INFO - 🔄 Обработка: stock_63.zip
+2026-02-23 14:56:46,019 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.zip
+2026-02-23 14:56:46,023 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63
+2026-02-23 14:56:46,816 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63
+2026-02-23 14:56:46,821 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.zip
+2026-02-23 14:56:46,830 - INFO - 📄 Найден CSV файл: mikado_price_63.csv
+2026-02-23 14:56:46,831 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63\mikado_price_63.csv
+2026-02-23 14:56:49,523 - INFO - ✅ Файл очищен
+2026-02-23 14:56:49,547 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63\mikado_price_63.csv
+2026-02-23 14:56:50,265 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.csv
+2026-02-23 14:56:50,270 - INFO - 🗑 Удален старый файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.csv
+2026-02-23 14:56:50,278 - INFO - ✅ Файл переименован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63.csv
+2026-02-23 14:56:50,284 - INFO - 🗑 Удалена пустая папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_63
+2026-02-23 14:56:50,284 - INFO - ✅ Файл stock_63.zip успешно обработан
+2026-02-23 14:56:50,284 - INFO - 
+==================================================
+2026-02-23 14:56:50,285 - INFO - 🔄 Обработка: stock_67.zip
+2026-02-23 14:56:50,287 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.zip
+2026-02-23 14:56:50,290 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67
+2026-02-23 14:56:51,007 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67
+2026-02-23 14:56:51,015 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.zip
+2026-02-23 14:56:51,026 - INFO - 📄 Найден CSV файл: mikado_price_67.csv
+2026-02-23 14:56:51,026 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67\mikado_price_67.csv
+2026-02-23 14:56:53,551 - INFO - ✅ Файл очищен
+2026-02-23 14:56:53,575 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67\mikado_price_67.csv
+2026-02-23 14:56:54,112 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.csv
+2026-02-23 14:56:54,117 - INFO - 🗑 Удален старый файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.csv
+2026-02-23 14:56:54,133 - INFO - ✅ Файл переименован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67.csv
+2026-02-23 14:56:54,156 - INFO - 🗑 Удалена пустая папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_67
+2026-02-23 14:56:54,156 - INFO - ✅ Файл stock_67.zip успешно обработан
+2026-02-23 14:56:54,157 - INFO - 
+==================================================
+2026-02-23 14:56:54,158 - INFO - 🔄 Обработка: stock_77.zip
+2026-02-23 14:56:54,160 - INFO - Найден архив для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.zip
+2026-02-23 14:56:54,199 - INFO - Создана папка для распаковки: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77
+2026-02-23 14:56:55,232 - INFO - Архив успешно распакован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77
+2026-02-23 14:56:55,240 - INFO - Архив удалён: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.zip
+2026-02-23 14:56:55,243 - INFO - 📄 Найден CSV файл: mikado_price_77.csv
+2026-02-23 14:56:55,243 - INFO - 🧹 Очистка файла: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77\mikado_price_77.csv
+2026-02-23 14:56:58,603 - INFO - ✅ Файл очищен
+2026-02-23 14:56:58,619 - INFO - Найден файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77\mikado_price_77.csv
+2026-02-23 14:56:59,466 - INFO - Кодировка win-1251, переименовываю в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.csv
+2026-02-23 14:56:59,474 - INFO - 🗑 Удален старый файл: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.csv
+2026-02-23 14:56:59,481 - INFO - ✅ Файл переименован в: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77.csv
+2026-02-23 14:56:59,489 - INFO - 🗑 Удалена пустая папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7\stock_77
+2026-02-23 14:56:59,489 - INFO - ✅ Файл stock_77.zip успешно обработан
+2026-02-23 14:56:59,491 - INFO - 
+==================================================
+2026-02-23 14:56:59,491 - INFO - 📊 РЕЗУЛЬТАТЫ ОБРАБОТКИ:
+2026-02-23 14:56:59,491 - INFO -    Всего архивов: 8
+2026-02-23 14:56:59,492 - INFO -    ✅ Успешно обработано: 7
+2026-02-23 14:56:59,492 - INFO -    ❌ Ошибок: 1
+2026-02-23 14:56:59,493 - INFO -    📁 Папка: \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7
+2026-02-23 14:56:59,493 - INFO - ==================================================
+2026-02-23 14:56:59,493 - INFO - 
+✅ Распаковано файлов: 7
+2026-02-23 14:56:59,494 - INFO - 
+============================================================
+2026-02-23 14:56:59,494 - INFO - ✅ ПРОЦЕСС ЗАВЕРШЕН
+2026-02-23 14:56:59,495 - INFO - ============================================================
