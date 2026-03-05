@@ -13,6 +13,7 @@ from datetime import datetime
 import os
 import argparse
 from pathlib import Path
+from send_messege_to_bot import send_telegram 
 
 def setup_logging(log_folder=None):
     """Настройка логирования"""
@@ -63,6 +64,7 @@ def main():
         downloader.print_summary()
         
         if stats['successful'] > 0:
+            send_telegram(f"Прайсы Микадо скачаны в \\xen\DATAW\Dropbox\InterParts\Berloga\RU\RU77\R77A7 с сайта https://www.mikado-parts.ru/office/DownloadPrice.asp")
             logger.info("\n📦 НАЧАЛО РАСПАКОВКИ ФАЙЛОВ")
             unzipped_count = unzip_all_files()
             
@@ -79,6 +81,6 @@ def main():
     logger.info("\n" + "="*60)
     logger.info("✅ ПРОЦЕСС ЗАВЕРШЕН")
     logger.info("="*60)
-
+    
 if __name__ == "__main__":
     main()
